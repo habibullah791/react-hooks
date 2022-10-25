@@ -1,7 +1,7 @@
 import { useState } from 'react';
-import './App.css';
+import './main.css';
 
-function UseStateHook() {
+const UseStateHook = () => {
 
   // when you initialize the sate as in function
   //  it will only execute the first time your component
